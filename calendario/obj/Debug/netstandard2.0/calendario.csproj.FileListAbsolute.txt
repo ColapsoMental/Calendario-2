@@ -1,0 +1,17 @@
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\bin\Debug\netstandard2.0\calendario.deps.json
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\bin\Debug\netstandard2.0\calendario.dll
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\bin\Debug\netstandard2.0\ref\calendario.dll
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\bin\Debug\netstandard2.0\calendario.pdb
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\bin\Debug\netstandard2.0\DevExpress.XamarinForms.Core.dll
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\bin\Debug\netstandard2.0\DevExpress.XamarinForms.Scheduler.dll
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\calendario.csprojAssemblyReference.cache
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\calendario.AssemblyInfoInputs.cache
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\calendario.AssemblyInfo.cs
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\calendario.csproj.CoreCompileInputs.cache
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\calendario.csproj.CopyComplete
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\calendario.dll
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\ref\calendario.dll
+C:\Users\Lidia Galarza\Desktop\Calendario2\calendario\calendario\obj\Debug\netstandard2.0\calendario.pdb
